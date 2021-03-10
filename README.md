@@ -1,6 +1,7 @@
 # scrapeStackChecker
 
 **ABOUT** : This python script is checker for site ScrapeStack (bruteForce with Email &amp; Password)
+
 **DISCLAIMER** : This tools is a vurnerability Exploitation of [site](https://www.scrapestack.com)
 > (All content that user is fetching from script belongs to and owned by Respective Owner)
 
